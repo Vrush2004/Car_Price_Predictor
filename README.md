@@ -1,5 +1,4 @@
 # Car_Price_Predictor
-## **Aim:**
 
 #### This is a machine learning project using the Linear Regression technique. It is a supervised learning model.
 
